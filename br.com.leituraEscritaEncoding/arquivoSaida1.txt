@@ -1,0 +1,2 @@
+Sou uma nova linha escrita
+Sou uma linha escrita depois de usar o newLine()
